@@ -12,4 +12,4 @@ Viewing all student records
 
 Searching for a student by roll number
 
-Technologies Used: C++, File I/O (fstream), Object-Oriented Programming
+Technologies Used: C++, File I/O (fstream), Object-Oriented Programming.
